@@ -1,0 +1,22 @@
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\my website.dll.config
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\my website.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\my website.pdb
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Helpers.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Mvc.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Razor.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Webpages.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Razor.xml
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Webpages.xml
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Helpers.xml
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\System.Web.Mvc.xml
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\obj\Debug\my website.csprojResolveAssemblyReference.cache
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\obj\Debug\my website.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\obj\Debug\my website.pdb
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\EntityFramework.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\EntityFramework.xml
+C:\Users\DELL-PC\Documents\Visual Studio 2013\Projects\website\my website\my website\bin\EntityFramework.SqlServer.xml
